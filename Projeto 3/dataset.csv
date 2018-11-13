@@ -1,0 +1,51 @@
+,acousticness,danceability,energy,id,instrumentalness,key,liveness,loudness,speechiness,tempo,valence,nome,artista
+0,0.28,0.724,0.647,2rPE9A1vEgShuZxxzR2tZH,0.0,1,0.102,-5.642,0.0658,106.96,0.435,"thank u, next",Ariana Grande
+1,0.551,0.753,0.498,1A6OTy97kk0mMdm78rHsm8,0.0,2,0.0706,-5.61,0.0504,89.95,0.927,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone
+2,0.297,0.752,0.488,5p7ujcrUXASCNwRaWNHR1C,9.11e-06,6,0.0936,-7.05,0.0705,136.041,0.533,Without Me,Halsey
+3,0.0302,0.703,0.723,2LskIZrCeLxRvCiGP8gxlh,2.06e-06,9,0.126,-5.45,0.0412,104.969,0.288,Arms Around You (feat. Maluma & Swae Lee),XXXTENTACION
+4,0.0691,0.719,0.704,25sgk305KZfyuqVBQIahim,0.0,1,0.166,-4.724,0.0476,133.002,0.628,Sweet but Psycho,Ava Max
+5,0.173,0.757,0.849,6rrTr2HEAzlpC4KWZxF3S1,0.0,5,0.0878,-3.424,0.0536,150.036,0.826,Woman Like Me (feat. Nicki Minaj),Little Mix
+6,0.979,0.498,0.104,14JzyD6FlBD5z0wV5P07YI,7.86e-05,1,0.0895,-14.08,0.0621,124.001,0.205,when the party's over,Billie Eilish
+7,0.153,0.841,0.798,4w8niZpiMy6qz1mntFA5uM,3.33e-06,1,0.0618,-4.206,0.229,95.948,0.591,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",DJ Snake
+8,0.0658,0.678,0.729,7jr3iPu4O4bTCVwLMbdU2i,0.0,8,0.303,-4.188,0.137,99.895,0.643,Kiss and Make Up,Dua Lipa
+9,0.0984,0.442,0.585,4T3fNx3CgwDRRYgmFCbD4J,0.391,0,0.14,-10.332,0.0964,97.565,0.116,Better,Khalid
+10,0.0969,0.574,0.758,5JEx7HbmvHQQswJCsoo9rA,0.0,1,0.395,-5.029,0.0621,144.111,0.492,Close To Me (with Diplo) (feat. Swae Lee),Ellie Goulding
+11,0.0141,0.817,0.539,116H0KvKr2Zl4RPuVBruDO,0.000496,6,0.099,-6.349,0.0621,97.062,0.158,MIA (feat. Drake),Bad Bunny
+12,0.035,0.805,0.87,5sdb5pMhcK44SSLsj1moUh,0.0882,6,0.294,-4.181,0.0439,122.996,0.386,I Found You (with Calvin Harris),benny blanco
+13,0.423,0.665,0.699,5tAa8Uaqr4VvA3693mbIhU,0.0,11,0.0969,-5.265,0.0578,124.896,0.585,Ruin My Life,Zara Larsson
+14,0.374,0.693,0.575,14sOS5L36385FJ3OL8hew4,0.0,9,0.252,-6.998,0.0801,117.999,0.492,Happy Now (feat. Sandro Cavazza),Kygo
+15,0.416,0.575,0.33,6QfS2wq5sSC1xAJCQsTSlj,0.0,7,0.0872,-6.557,0.031,95.801,0.277,Shallow - Radio Edit,Lady Gaga
+16,0.00534,0.95,0.59,2GGMabyHXnJmjY6CXhhB2e,0.0,8,0.11,-6.508,0.29,130.003,0.219,Money,Cardi B
+17,0.288,0.531,0.854,6xtcFXSo8H9BZN637BMVKS,0.0,10,0.0773,-3.149,0.198,94.419,0.456,Let You Love Me,Rita Ora
+18,0.0998,0.694,0.63,6SkHm6poyKfzV6kc9any8k,0.000635,7,0.12,-6.84,0.162,90.045,0.341,Suncity (feat. Empress Of),Khalid
+19,0.191,0.687,0.792,2dpaYNEQHiRxtZbfNsse99,0.0,5,0.167,-2.749,0.0452,100.015,0.671,Happier,Marshmello
+20,0.49,0.755,0.625,2hnxrRNzF74mdDzpQZQukQ,0.0,2,0.157,-7.114,0.0896,147.02,0.374,There's No Way (feat. Julia Michaels),Lauv
+21,0.252,0.669,0.684,2r1T6xGTVaNAqBoPH4lZEE,0.0,7,0.72,-4.595,0.0585,96.097,0.466,Waste It On Me (feat. BTS),Steve Aoki
+22,0.0944,0.89,0.624,6r05pfZigq7Arg25pi2vRm,5.16e-06,1,0.0903,-3.966,0.103,116.046,0.762,Checklist (with Calvin Harris) (feat. WizKid),Normani
+23,0.0558,0.575,0.571,15kQGEy89K8deJcZVFEn0N,0.0,1,0.0912,-7.906,0.0439,105.049,0.449,This Feeling (feat. Kelsea Ballerini),The Chainsmokers
+24,0.645,0.547,0.289,1ArLnG0bHaHPXqf08sEKM0,0.0,0,0.148,-8.131,0.0348,104.851,0.213,Consequences - orchestra,Camila Cabello
+25,0.032,0.719,0.703,58zQ7Xs38d8nDIv49iiEkX,1.14e-05,5,0.0656,-4.93,0.0392,101.984,0.72,Blow That Smoke (feat.Tove Lo),Major Lazer
+26,0.137,0.703,0.66,0YammaEkYSeo9vQYZ1OwS6,0.0,10,0.192,-5.119,0.123,95.031,0.79,Say My Name,David Guetta
+27,0.161,0.55,0.415,2JqnpexlO9dmvjUMCaLCLJ,0.0,9,0.108,-6.557,0.052,172.065,0.274,Love Someone,Lukas Graham
+28,0.071,0.826,0.615,7l3E7lcozEodtVsSTCkcaA,0.0,8,0.0965,-7.979,0.219,98.056,0.543,ZEZE (feat. Travis Scott & Offset),Kodak Black
+29,0.0227,0.739,0.742,05mAIVLkIWc2d1UBYZBCp8,1.39e-06,7,0.229,-4.586,0.0329,124.016,0.659,1999,Charli XCX
+30,0.0112,0.578,0.694,1N7YeVU0ZwAFbOhwM61ef6,0.0,5,0.102,-5.351,0.0706,129.921,0.268,Head Above Water,Avril Lavigne
+31,0.129,0.499,0.638,4J4zx8xGJpuGndrVc06KaT,0.0,0,0.631,-6.145,0.0438,89.98,0.253,Diamond Heart,Alan Walker
+32,0.073,0.754,0.342,5qHirGR7M9tdm6C17DlzSY,0.0,10,0.193,-8.677,0.0991,128.981,0.423,REEL IT IN,Aminé
+33,0.123,0.703,0.748,2jZIfoe48eUeOEnP9Ho4h2,0.0,1,0.0642,-6.047,0.0435,111.943,0.625,No One Compares To You,Jack & Jack
+34,0.383,0.666,0.426,5rBZF2fl4Avi4K0tvrQ0YF,1.56e-05,7,0.109,-9.228,0.147,159.963,0.587,Fingers,ZAYN
+35,0.216,0.448,0.612,4zIO3ilp5HvTeK3HJHxhMP,0.0,2,0.08,-6.106,0.0708,97.773,0.213,Natural,Imagine Dragons
+36,0.293,0.652,0.897,1wsLHgXJ4SKIfd5ePSX1hD,0.0,7,0.0722,-4.481,0.036,114.033,0.475,Polaroid,Jonas Blue
+37,0.299,0.553,0.502,2rbDhOo9Fh61Bbu23T2qCk,0.0,0,0.764,-5.972,0.0409,129.976,0.296,Always Remember Us This Way,Lady Gaga
+38,0.00381,0.8,0.578,0QIjsbm2fh1cJ45XO9eGqq,0.0,4,0.359,-5.144,0.0485,143.01,0.367,Wake Up in the Sky,Gucci Mane
+39,0.697,0.553,0.586,3EPXxR3ImUwfayaurPi3cm,0.0,11,0.0813,-6.319,0.0362,126.684,0.443,Be Alright,Dean Lewis
+40,0.428,0.82,0.582,3ji4bcQugJj5B6NRGYDNwP,0.0,2,0.0419,-4.441,0.0454,112.064,0.309,Thursday,Jess Glynne
+41,0.0175,0.669,0.574,0Dn40gxVCMo5TkgS8Ik18Q,0.00294,4,0.146,-6.442,0.0286,120.013,0.273,Falling Down,Lil Peep
+42,0.00541,0.583,0.662,0qbfdprRS71e9up5pOmbQo,1.96e-06,0,0.284,-6.025,0.156,150.305,0.636,Trust My Lonely,Alessia Cara
+43,0.669,0.494,0.637,3ngc7rGlfeFaskU90EWl4R,0.0,5,0.0882,-6.381,0.0333,147.924,0.1,You Say,Lauren Daigle
+44,0.0563,0.749,0.723,5HeKOKc4phmLn8e4I7EkzD,0.022,1,0.0977,-6.609,0.0432,108.999,0.674,My Blood,Twenty One Pilots
+45,0.268,0.738,0.629,3QybPutx0Tjk472bBKjNWn,0.00114,6,0.163,-4.882,0.0495,146.067,0.319,Mo Bamba,Sheck Wes
+46,0.214,0.717,0.605,7noud145AHZGg74vpWOsCa,0.0,11,0.138,-5.68,0.075,81.047,0.387,Trip,Ella Mai
+47,0.0882,0.694,0.852,575NJxNUVDqwJGdzBrlLbv,0.0,7,0.334,-5.34,0.257,107.178,0.377,Lost In Japan - Remix,Shawn Mendes
+48,0.352,0.746,0.703,33zcmmElV1YbRZe57biUjg,0.0,4,0.331,-4.179,0.107,166.043,0.667,Celoso,Lele Pons
+49,0.0215,0.765,0.704,04MLEeAMuV9IlHEsD8vF6A,0.0,5,0.227,-4.589,0.127,147.055,0.498,No Stylist,French Montana
